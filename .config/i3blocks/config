@@ -1,0 +1,64 @@
+SCRIPT_DIR=~/.config/i3blocks/i3scripts
+
+[i3-window-title]
+#github link for i3-window-title at
+#https://github.com/nekowinston/i3-window-title
+command=i3-window-title
+interval=persist
+
+[disk]
+command=~/.config/i3blocks/i3scripts/disk
+LABEL= 
+#DIR=$HOME
+#ALERT_LOW=10
+interval=30
+
+[disk]
+command=~/.config/i3blocks/i3scripts/disk
+LABEL=/ 
+DIR=/
+#ALERT_LOW=10
+interval=30
+
+[pacman-updates]
+command=~/.config/i3blocks/i3scripts/arch-update 
+markup=pango
+interval= 3600
+WATCH=^linux.* ^pacman.* ^grub.*
+BASE_COLOR=#5fff5f
+UPDATE_COLOR=#FFFF85
+LABEL=  
+
+[volume-pipewire]
+command=~/.config/i3blocks/i3scripts/volume-pipewire
+interval=once
+signal=1
+#label=♪
+#label=VOL
+#interval=once
+#signal=10
+#STEP=5%
+
+[cpu_usage]
+command=~/.config/i3blocks/i3scripts/cpu_usage
+markup=pango
+interval=persist
+#min_width=CPU 100.00%
+#REFRESH_TIME=1
+LABEL= 
+#WARN_PERCENT=50
+#CRIT_PERCENT=80
+#DECIMALS=2
+
+[memory]
+command=~/.config/i3blocks/i3scripts/memory
+label= 
+interval=3
+
+[time]
+command=~/.config/i3blocks/i3scripts/time
+interval=1
+#TZ_FILE=~/.tz
+STRFTIME_FORMAT=%a %B %d, %Y %I:%M:%S%P
+TZONES=$DEFAULT_TZ,America/New_York
+TZ_LABELS=,New York

@@ -1,0 +1,57 @@
+Mon Aug 07 2023 20:47:53.036500 - //==============================================================================================
+Mon Aug 07 2023 20:47:53.036535 - ================================================================================================
+Mon Aug 07 2023 20:47:53.036549 - ================================================================================================
+Mon Aug 07 2023 20:47:53.036572 - wine64-preloader 1.14.16 startup with PID=86309, config=c:\fake_app_container_config_path, runtime=/home/jaden/.local/share/Steam/steamapps/common/SteamVR/
+Mon Aug 07 2023 20:47:53.036627 - vrclient type=VRApplication_Scene
+Mon Aug 07 2023 20:47:53.037406 - [Settings] Load Default Json Settings from /home/jaden/.local/share/Steam/steamapps/common/SteamVR/drivers/htc/resources/settings/default.vrsettings
+Mon Aug 07 2023 20:47:53.037468 - [Settings] Load Default Json Settings from /home/jaden/.local/share/Steam/steamapps/common/SteamVR/drivers/lighthouse/resources/settings/default.vrsettings
+Mon Aug 07 2023 20:47:53.037526 - [Settings] Load Default Json Settings from /home/jaden/.local/share/Steam/steamapps/common/SteamVR/drivers/null/resources/settings/default.vrsettings
+Mon Aug 07 2023 20:47:53.037741 - [Settings] Load Default Json Settings from /home/jaden/.local/share/Steam/steamapps/common/SteamVR/resources/settings/default.vrsettings
+Mon Aug 07 2023 20:47:53.038231 - [Settings] Load Json Settings from c:/fake_app_container_config_path/steamvr.vrsettings
+Mon Aug 07 2023 20:47:53.038494 - CIPCPipe::ConnectPipe(VR_ServerPipe_81858) attempting connect to steamvr:VR_ServerPipe_81858
+Mon Aug 07 2023 20:47:53.040866 - Received success response from vrserver connect
+Mon Aug 07 2023 20:47:53.042066 - ASSERT: "Attempt to init shared state VR_WebServerState twice" at /data/src/common/vrcommon/vripcsharedstate.cpp:17.
+Mon Aug 07 2023 20:47:53.043435 - ASSERT: "Attempt to init shared state VR_SettingsState twice" at /data/src/common/vrcommon/vripcsharedstate.cpp:17.
+Mon Aug 07 2023 20:47:53.044757 - ASSERT: "Attempt to init shared state VR_ApplicationsState twice" at /data/src/common/vrcommon/vripcsharedstate.cpp:17.
+Mon Aug 07 2023 20:47:53.045808 - App key after connect message:steam.app.620980
+Mon Aug 07 2023 20:47:53.045858 - ASSERT: "Attempt to init shared state VR_CompositorState twice" at /data/src/common/vrcommon/vripcsharedstate.cpp:17.
+Mon Aug 07 2023 20:47:53.046867 - ASSERT: "Attempt to init shared state VR_InputState twice" at /data/src/common/vrcommon/vripcsharedstate.cpp:17.
+Mon Aug 07 2023 20:47:53.047805 - ASSERT: "Attempt to init shared state VR_InputConnectionState_86309 twice" at /data/src/common/vrcommon/vripcsharedstate.cpp:17.
+Mon Aug 07 2023 20:47:53.048748 - ASSERT: "Attempt to init shared state VR_SpatialAnchorsState twice" at /data/src/common/vrcommon/vripcsharedstate.cpp:17.
+Mon Aug 07 2023 20:47:53.049756 - ASSERT: "Attempt to init shared state VR_CompositorState twice" at /data/src/common/vrcommon/vripcsharedstate.cpp:17.
+Mon Aug 07 2023 20:47:53.050759 - ASSERT: "Attempt to init shared state VR_MessageOverlay twice" at /data/src/common/vrcommon/vripcsharedstate.cpp:17.
+Mon Aug 07 2023 20:47:53.051756 - ASSERT: "Attempt to init shared state VR_EventState twice" at /data/src/common/vrcommon/vripcsharedstate.cpp:17.
+Mon Aug 07 2023 20:47:53.053206 - ASSERT: "Attempt to init shared state VR_CompositorState twice" at /data/src/common/vrcommon/vripcsharedstate.cpp:17.
+Mon Aug 07 2023 20:47:53.054275 - CIPCPipe::ConnectPipe(VR_CompositorPipe_81858) attempting connect to steamvr:VR_CompositorPipe_81858
+Mon Aug 07 2023 20:47:53.054436 - Received success response from vrcompositor connect
+Mon Aug 07 2023 20:47:53.054455 - Initializing the limited version of CVRCompositorClient
+Mon Aug 07 2023 20:47:53.059567 - Attempting to load initial input config
+Mon Aug 07 2023 20:47:53.062245 - Failed to find device container 100000003. Waiting some more.
+Mon Aug 07 2023 20:47:53.163611 - Failed to find device container 100000003. Waiting some more.
+Mon Aug 07 2023 20:47:53.263668 - Failed to find device container 100000003. Waiting some more.
+Mon Aug 07 2023 20:47:53.367758 - After initial config load, app appears to be using legacy input
+Mon Aug 07 2023 20:47:53.367814 - /user/hand/left is 4
+Mon Aug 07 2023 20:47:53.367838 - /user/hand/right is 3
+Mon Aug 07 2023 20:47:53.368093 - TrackedControllerRole_LeftHand (4)-> 
+Mon Aug 07 2023 20:47:53.368128 - TrackedControllerRole_RightHand (3)-> 
+Mon Aug 07 2023 20:47:53.368154 - TrackedControllerRole_Invalid (0)-> 
+Mon Aug 07 2023 20:47:53.368216 - Skipping starting apps because we're in an app container
+Mon Aug 07 2023 20:47:53.369032 - Capturing Scene Focus
+Mon Aug 07 2023 20:47:53.369104 - No GPU timing Vulkan device in CVRCompositorSharedTextures::BeginGPUTimingCommandBuffer!
+Mon Aug 07 2023 20:47:53.369136 - No Vulkan command buffer open in CGpuTiming::MarkEvent!
+Mon Aug 07 2023 20:47:53.369164 - Invalid command buffer in CVRCompositorSharedTextures::FinishOpenCommandBuffer!
+Mon Aug 07 2023 20:48:00.565078 - Enable advanced image processing of scene textures.
+Mon Aug 07 2023 20:48:00.585902 - Initializing CVulkanVRRenderer
+Mon Aug 07 2023 20:48:00.585983 - Debug markers: disabled, missing extension support. Is the Renderdoc layer enabled?
+Mon Aug 07 2023 20:48:00.638136 - Initialized Vulkan transfer ring buffer, mapped at offset 0x0x7efcc8000000.
+Mon Aug 07 2023 20:48:00.672768 - Setting max texture dimensions to 3227x3586 before requiring downsampling
+Mon Aug 07 2023 20:48:00.676284 - Created remote Vulkan image 0x4700013fd1, dimensions 1756 x 1952, format 37, memory size 7 and memory type 7.
+Mon Aug 07 2023 20:48:00.679794 - Created remote Vulkan image 0x4800013fd1, dimensions 1756 x 1952, format 37, memory size 7 and memory type 7.
+Mon Aug 07 2023 20:48:00.683080 - Created remote Vulkan image 0x4900013fd1, dimensions 1756 x 1952, format 37, memory size 7 and memory type 7.
+Mon Aug 07 2023 20:48:00.686600 - Created remote Vulkan image 0x4a00013fd1, dimensions 1756 x 1952, format 37, memory size 7 and memory type 7.
+Mon Aug 07 2023 20:48:00.689737 - Created remote Vulkan image 0x4b00013fd1, dimensions 1756 x 1952, format 37, memory size 7 and memory type 7.
+Mon Aug 07 2023 20:48:00.692911 - Created remote Vulkan image 0x4c00013fd1, dimensions 1756 x 1952, format 37, memory size 7 and memory type 7.
+Mon Aug 07 2023 20:48:00.692973 - Unflushed events requested in CGpuTiming::GetDeltas!
+Mon Aug 07 2023 20:52:07.529868 - PropertyContainer: High lock acquisition counters: sp:100001 yd:1 re:0
+Mon Aug 07 2023 20:52:14.525733 - PropertyContainer: High lock acquisition counters: sp:100001 yd:1 re:0
+Mon Aug 07 2023 20:53:25.284662 - VR_Shutdown called

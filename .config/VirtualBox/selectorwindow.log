@@ -1,0 +1,25 @@
+00:00:00.281554 VirtualBox GUI VM Selector Window 7.0.8 r156879 linux.amd64 (Apr 18 2023 21:49:14) release log
+00:00:00.281557 Log opened 2023-06-15T20:55:43.038930000Z
+00:00:00.281558 Build Type: release
+00:00:00.281561 OS Product: Linux
+00:00:00.281563 OS Release: 6.3.7-arch1-1
+00:00:00.281565 OS Version: #1 SMP PREEMPT_DYNAMIC Sat, 10 Jun 2023 00:35:35 +0000
+00:00:00.281589 DMI Product Name: 870-244
+00:00:00.281602 DMI Product Version: 1.04
+00:00:00.281608 Firmware type: UEFI
+00:00:00.282255 Secure Boot: Disabled
+00:00:00.282291 Host RAM: 15932MB (15.5GB) total, 10785MB (10.5GB) available
+00:00:00.282294 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.282295 Process ID: 12883
+00:00:00.282296 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.282326 Qt version: 5.15.10
+00:00:00.283167 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.288651 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.898533 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 2837x52 x 374x1018
+00:00:00.898836 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 2453x52 x 374x1018
+00:00:00.899056 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:38.256219 GUI: UIMediumEnumerator: Medium with key={{617a8b8b-d93d-433c-a341-25a5e2daf9d9}} created
+00:07:38.778302 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:44.416545 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:08:49.120930 GUI: UICommon: Handling aboutToQuit request..
+00:08:49.772601 GUI: UICommon: aboutToQuit request handled!

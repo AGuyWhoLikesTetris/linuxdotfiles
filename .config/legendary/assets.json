@@ -1,0 +1,102 @@
+{
+  "Windows": [
+    {
+      "app_name": "540f935fa0ad4bd498177ee5ad3b54e4",
+      "asset_id": "540f935fa0ad4bd498177ee5ad3b54e4",
+      "build_version": "1.02",
+      "catalog_item_id": "953b294fc47b436089ac9ca5e1a61038",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "03208f1f61764f5a8f6b7ea24c56edf1"
+    },
+    {
+      "app_name": "Potoo",
+      "asset_id": "Potoo",
+      "build_version": "246.807171",
+      "catalog_item_id": "08addee88a7a400c940c9db6263b61db",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab"
+    },
+    {
+      "app_name": "0a2d9f6403244d12969e11da6713137b",
+      "asset_id": "0a2d9f6403244d12969e11da6713137b",
+      "build_version": "EGS_4126",
+      "catalog_item_id": "38ec4849ea4f4de6aa7b6fb0f2d278e1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "50118b7f954e450f8823df1614b24e80"
+    },
+    {
+      "app_name": "7a555b9dd80a4992a6ea33fe3f6b13c8",
+      "asset_id": "7a555b9dd80a4992a6ea33fe3f6b13c8",
+      "build_version": "9705",
+      "catalog_item_id": "f189478ffa5e45a78e4102ae6f4c139c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "7bc2388309254065ae81fbd064e88f8f"
+      },
+      "namespace": "70d9536d99af4c70a55e4c23989f4225"
+    },
+    {
+      "app_name": "06621054d7d24f44bf13e3c31c9ec05d",
+      "asset_id": "06621054d7d24f44bf13e3c31c9ec05d",
+      "build_version": "1.4.2",
+      "catalog_item_id": "337333962e364b4bb2ce8f907c7c7d4d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "8c7ed85dae4341d385919ee4d832eb1a"
+    },
+    {
+      "app_name": "85efb11aaeec4239989113f9a598b372",
+      "asset_id": "85efb11aaeec4239989113f9a598b372",
+      "build_version": "Runbow_1.7",
+      "catalog_item_id": "7c288902f9ec455c8816a3111fc3a530",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "9e895c583363455586651ed282a0f1a7"
+      },
+      "namespace": "aa7c3e6b5a2a4ca8962270c15bddb861"
+    },
+    {
+      "app_name": "5cd54ad0ead447738bd9552b3d2a105b",
+      "asset_id": "5cd54ad0ead447738bd9552b3d2a105b",
+      "build_version": "4.1.3860.rls.win",
+      "catalog_item_id": "fdd74180985e480799398d63540dc275",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b6aa6a98bb394a53870bd6b026fefd1d"
+    },
+    {
+      "app_name": "Calluna",
+      "asset_id": "Calluna",
+      "build_version": "01.13",
+      "catalog_item_id": "9afb582e90b74bdd9e2146fb79c78589",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "3606edd6f53040ebb5965290701778c3"
+      },
+      "namespace": "calluna"
+    },
+    {
+      "app_name": "Duckbill",
+      "asset_id": "Duckbill",
+      "build_version": "1.0.28131",
+      "catalog_item_id": "fda40f57b2004437ae9be46c58aa8660",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "fa11862b1cfd42e3b3c6395af46efe3e"
+    },
+    {
+      "app_name": "Fortnite",
+      "asset_id": "Fortnite",
+      "build_version": "++Fortnite+Release-25.11-CL-26171015-Windows",
+      "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "FortniteInstallationPool"
+      },
+      "namespace": "fn"
+    }
+  ]
+}

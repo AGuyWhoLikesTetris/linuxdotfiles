@@ -1,0 +1,16 @@
+game:
+  appid: '240720'
+game_slug: getting-over-it-with-bennett-foddy
+name: Getting Over It with Bennett Foddy
+requires: null
+script:
+  game:
+    appid: '240720'
+service: steam
+service_id: '240720'
+slug: getting-over-it-with-bennett-foddy-steam
+steam: {}
+system: {}
+variables: {}
+version: Steam
+year: null

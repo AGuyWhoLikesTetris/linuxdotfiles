@@ -1,0 +1,16 @@
+game:
+  appid: '1003590'
+game_slug: tetris-effect-connected
+name: "Tetris\xAE Effect: Connected"
+requires: null
+script:
+  game:
+    appid: '1003590'
+service: steam
+service_id: '1003590'
+slug: tetris-effect-connected-steam
+steam: {}
+system: {}
+variables: {}
+version: Steam
+year: null

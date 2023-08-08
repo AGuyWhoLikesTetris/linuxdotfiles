@@ -1,0 +1,20 @@
+{
+    "FreeEmojis": true,
+    "PluginRepo": true,
+    "BDFDB": true,
+    "ZeresPluginLibrary": true,
+    "BetterAudioPlayer": true,
+    "BetterVolume": true,
+    "InvisibleTyping": false,
+    "PlatformIndicators": true,
+    "RelativeTimestamps": true,
+    "ThemeRepo": false,
+    "TypingIndicator": true,
+    "BugReportHelper": true,
+    "Uncompressed Images": true,
+    "WhoReacted": true,
+    "SplitLargeMessages": true,
+    "FileViewer": true,
+    "BetterAnimations": true,
+    "BetterMediaPlayer": true
+}

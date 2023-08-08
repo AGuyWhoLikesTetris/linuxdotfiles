@@ -1,0 +1,27 @@
+{
+  "app_name": "98bc04bc842e4906993fd6d6644ffb8d",
+  "base_urls": [
+    "https://download.epicgames.com/Builds/EOS/OverlayCloudDir",
+    "https://download2.epicgames.com/Builds/EOS/OverlayCloudDir",
+    "https://download3.epicgames.com/Builds/EOS/OverlayCloudDir",
+    "https://download4.epicgames.com/Builds/EOS/OverlayCloudDir",
+    "https://epicgames-download1.akamaized.net/Builds/EOS/OverlayCloudDir",
+    "https://fastly-download.epicgames.com/Builds/EOS/OverlayCloudDir"
+  ],
+  "can_run_offline": false,
+  "egl_guid": "",
+  "executable": "",
+  "install_path": "/home/jaden/.config/heroic/tools/eos_overlay",
+  "install_size": 346890471,
+  "install_tags": [],
+  "is_dlc": false,
+  "launch_parameters": "",
+  "manifest_path": "",
+  "needs_verification": false,
+  "platform": "Windows",
+  "prereq_info": null,
+  "requires_ot": false,
+  "save_path": null,
+  "title": "Epic Online Services Overlay",
+  "version": "1.2.7++EOSSDK+Release-Overlay-CL-25975892-Windows"
+}

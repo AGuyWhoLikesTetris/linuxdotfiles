@@ -1,0 +1,5 @@
+
+[Default Applications]
+x-scheme-handler/discord-712465656758665259=discord-712465656758665259.desktop
+inode/directory=nemo.desktop
+application/x-gnome-saved-search=nemo.desktop

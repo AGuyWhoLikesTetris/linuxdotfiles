@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<session>
+	<windowheight>986</windowheight>
+	<windowwidth>823</windowwidth>
+	<activefile>/home/jaden/patch.rom</activefile>
+	<file>
+		<path>/home/jaden/patch.rom</path>
+		<offset>0</offset>
+		<cursoroffset>0</cursoroffset>
+		<cursordigit>0</cursordigit>
+		<layout>/usr/share/bless/bless-default.layout</layout>
+		<focusedarea>0</focusedarea>
+	</file>
+</session>

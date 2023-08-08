@@ -1,0 +1,16 @@
+game:
+  appid: '620980'
+game_slug: beat-saber
+name: Beat Saber
+requires: null
+script:
+  game:
+    appid: 620980
+service: steam
+service_id: '620980'
+slug: beat-saber-steam
+steam: {}
+system: {}
+variables: {}
+version: Steam
+year: 2019

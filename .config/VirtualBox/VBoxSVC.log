@@ -1,0 +1,113 @@
+00:00:00.000135 main     VirtualBox XPCOM Server 7.0.8 r156879 linux.amd64 (Apr 18 2023 21:49:14) release log
+00:00:00.000137 main     Log opened 2023-06-15T20:55:42.868550000Z
+00:00:00.000137 main     Build Type: release
+00:00:00.000139 main     OS Product: Linux
+00:00:00.000141 main     OS Release: 6.3.7-arch1-1
+00:00:00.000142 main     OS Version: #1 SMP PREEMPT_DYNAMIC Sat, 10 Jun 2023 00:35:35 +0000
+00:00:00.000162 main     DMI Product Name: 870-244
+00:00:00.000172 main     DMI Product Version: 1.04
+00:00:00.000177 main     Firmware type: UEFI
+00:00:00.000876 main     Secure Boot: Disabled
+00:00:00.000908 main     Host RAM: 15932MB (15.5GB) total, 10785MB (10.5GB) available
+00:00:00.000910 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000911 main     Process ID: 12907
+00:00:00.000911 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.002701 main     IPC socket path: /tmp/.vbox-jaden-ipc/ipcd
+00:00:00.107767 nspr-2   VirtualBox: object creation starts
+00:00:00.107842 nspr-2   Home directory: '/home/jaden/.config/VirtualBox'
+00:00:00.120995 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.122045 nspr-2   HostDnsMonitor: initializing
+00:00:00.122247 nspr-2   NAT: resolv.conf: nameserver 192.168.86.1
+00:00:00.122259 nspr-2   HostDnsMonitor: updating information
+00:00:00.122269 nspr-2   HostDnsMonitor: old information
+00:00:00.122272 nspr-2     no server entries
+00:00:00.122275 nspr-2     no domain set
+00:00:00.122277 nspr-2     no search string entries
+00:00:00.122280 nspr-2   HostDnsMonitor: new information
+00:00:00.122282 nspr-2     server 1: 192.168.86.1
+00:00:00.122285 nspr-2     domain: lan
+00:00:00.122287 nspr-2     search string 1: lan
+00:00:00.124319 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.124442 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.124520 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.125171 nspr-2   VirtualBox: object created
+00:00:00.581619 nspr-4   Saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.624681 nspr-4   Finished saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml"
+00:00:00.663049 nspr-2   Saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.708533 nspr-2   Finished saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml"
+00:00:00.791924 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=false aResultDetail=0
+00:00:01.123678 nspr-4   Saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.167712 nspr-4   Finished saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml"
+00:00:04.298596 nspr-4   Saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:04.337490 nspr-4   Finished saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml"
+00:00:10.962462 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:05:05.704468 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:05:23.338985 nspr-2   Unattended: RTVfsQueryPathInfo(, '\OS2IMAGE/DISK_0/OS2LDR' (from OS2SE20.SRC),) -> VERR_PATH_NOT_FOUND, fMode=0x0
+00:05:23.395474 nspr-2   Saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:05:23.444760 nspr-2   Finished saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml"
+00:05:23.448841 nspr-2   Saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:05:23.503828 nspr-2   Finished saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml"
+00:07:38.081252 createBase Saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:07:38.129571 createBase Finished saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml"
+00:07:38.146952 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:07:38.151007 nspr-4   Saving settings file "/home/jaden/VirtualBox VMs/LFS Install/LFS Install.vbox" with version "1.19-linux"
+00:07:38.238413 nspr-4   Finished saving settings file "/home/jaden/VirtualBox VMs/LFS Install/LFS Install.vbox"
+00:07:38.238639 nspr-4   Saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:07:38.298100 nspr-4   Finished saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml"
+00:07:38.307565 nspr-4   Saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:07:38.365502 nspr-4   Finished saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml"
+00:07:38.370358 nspr-4   Saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:07:38.416110 nspr-4   Finished saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml"
+00:07:38.417831 nspr-4   Saving settings file "/home/jaden/VirtualBox VMs/LFS Install/LFS Install.vbox" with version "1.19-linux"
+00:07:38.458140 nspr-4   Finished saving settings file "/home/jaden/VirtualBox VMs/LFS Install/LFS Install.vbox"
+00:07:38.552120 nspr-2   Saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:07:38.600372 nspr-2   Finished saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml"
+00:07:38.997257 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:07:39.043589 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:07:39.046605 nspr-5   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:07:39.320428 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:07:39.321459 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:07:43.786243 nspr-6   Launched VM: 2483034112 pid: 13369 (0x3439) frontend: GUI/Qt name: LFS Install
+00:07:43.818362 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:07:43.819301 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:07:43.844081 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:07:43.845085 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:07:44.286654 Watcher  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The virtual machine 'LFS Install' has terminated unexpectedly during startup with exit code 1 (0x1)}, preserve=false aResultDetail=0
+00:07:44.351271 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:07:44.352316 nspr-3   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:07:44.377673 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:07:44.378633 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:08:00.291968 nspr-4   Saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:08:00.337176 nspr-4   Finished saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml"
+00:08:38.174357 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:08:38.661197 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:08:38.661296 nspr-4   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:08:38.661380 nspr-6   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:08:38.662735 nspr-4   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine.}, preserve=false aResultDetail=0
+00:08:38.680838 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:08:38.694441 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:08:38.708193 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:08:38.708596 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:08:38.858454 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:08:38.859462 nspr-6   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:08:38.869697 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:08:38.870466 nspr-6   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:08:39.114398 nspr-6   Saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:08:39.160275 nspr-6   Finished saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml"
+00:08:43.174961 nspr-4   Saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:08:43.229511 nspr-4   Finished saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml"
+00:08:46.393781 nspr-4   Saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:08:46.440915 nspr-4   Finished saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml"
+00:08:46.441001 nspr-4   Saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:08:46.483215 nspr-4   Finished saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml"
+00:08:46.490263 DeleteVM Saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:08:46.533946 DeleteVM Finished saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml"
+00:08:46.535654 nspr-2   Saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:08:46.626695 nspr-2   Finished saving settings file "/home/jaden/.config/VirtualBox/VirtualBox.xml"
+00:08:46.647394 nspr-6   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {ef8829d7-d4d3-4c44-b51b-25fe81d3c461}}, preserve=false aResultDetail=0
+00:08:46.666437 nspr-5   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {ef8829d7-d4d3-4c44-b51b-25fe81d3c461}}, preserve=false aResultDetail=0
+00:08:54.646081 main     VirtualBox: object deletion starts
+00:08:54.647140 main     HostDnsMonitor: shutting down ...
+00:08:54.647316 main     HostDnsMonitor: shut down
+00:08:54.658220 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:08:54.658444 main     VirtualBox: object deleted

@@ -1,0 +1,36 @@
+{
+  "0a2d9f6403244d12969e11da6713137b": {
+    "app_name": "0a2d9f6403244d12969e11da6713137b",
+    "base_urls": [
+      "https://download.epicgames.com/Builds/Org/o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf/d42d7101bb7a41c09a810ee418b7d3d0/default",
+      "https://download2.epicgames.com/Builds/Org/o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf/d42d7101bb7a41c09a810ee418b7d3d0/default",
+      "https://download3.epicgames.com/Builds/Org/o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf/d42d7101bb7a41c09a810ee418b7d3d0/default",
+      "https://download4.epicgames.com/Builds/Org/o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf/d42d7101bb7a41c09a810ee418b7d3d0/default",
+      "https://epicgames-download1.akamaized.net/Builds/Org/o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf/d42d7101bb7a41c09a810ee418b7d3d0/default",
+      "https://fastly-download.epicgames.com/Builds/Org/o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf/d42d7101bb7a41c09a810ee418b7d3d0/default"
+    ],
+    "can_run_offline": true,
+    "egl_guid": "",
+    "executable": "RunFallGuys.exe",
+    "install_path": "/home/jaden/Games/Heroic/FallGuys",
+    "install_size": 6432414017,
+    "install_tags": [],
+    "is_dlc": false,
+    "launch_parameters": "",
+    "manifest_path": null,
+    "needs_verification": false,
+    "platform": "Windows",
+    "prereq_info": {
+      "args": "install 591 -console",
+      "ids": [
+        "EasyAntiCheatFallGuys"
+      ],
+      "name": "",
+      "path": "EasyAntiCheat/EasyAntiCheat_Setup.exe"
+    },
+    "requires_ot": false,
+    "save_path": null,
+    "title": "Fall Guys",
+    "version": "EGS_4126"
+  }
+}

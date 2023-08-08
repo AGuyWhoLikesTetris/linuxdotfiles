@@ -1,0 +1,98 @@
+{
+  "data": {
+    "appName": "98bc04bc842e4906993fd6d6644ffb8d",
+    "buildVersion": "1.2.7++EOSSDK+Release-Overlay-CL-25975892-Windows",
+    "hash": "b2e3c70448b858d68347f1d8ea1c0e70056c07f4",
+    "labelName": "Live-Windows",
+    "manifests": [
+      {
+        "queryParams": [
+          {
+            "name": "Policy",
+            "value": "eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovQnVpbGRzL0VPUy9PdmVybGF5Q2xvdWREaXIvdEJTbUdsT1dENVQ0VERKMmZrYXhmYVRGWng3N093Lm1hbmlmZXN0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjg5NzQxODcwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__"
+          },
+          {
+            "name": "Signature",
+            "value": "yaM0cLtJVnAwuAIz7VDI2AuwU3ykdLTuZbsRV6PhmzdztSmH~MJnfQzpgn4qjpzeSk28EtstvEcyrHvs9SJHtgvQMENgH954RgePN19JvAPO6dzGVNYKh9ZMhZQK68n5vmddtBBNjRnbxmY3HCDGJ0oOX6idp1YpQHmKGYiEG5yUyza0XuXjypj25YsRltbJK8oBnTYofnDbyiKAQcmcr7Sh81OhcPRidr5U8l9URx6j4tW~557q9WDT2Ux8nPa8rHXANvu6md-pKCoCrhJAanLYgcykuP~8PyyqF6rms7ANnl1Oc4y3wgNtVzSOdVP5wHlI~lYCkq9cb~YuXrpZJA__"
+          },
+          {
+            "name": "Key-Pair-Id",
+            "value": "APKAJP7WU44FM4EHJYFQ"
+          }
+        ],
+        "uri": "https://download.epicgames.com/Builds/EOS/OverlayCloudDir/tBSmGlOWD5T4TDJ2fkaxfaTFZx77Ow.manifest"
+      },
+      {
+        "queryParams": [
+          {
+            "name": "Policy",
+            "value": "eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovQnVpbGRzL0VPUy9PdmVybGF5Q2xvdWREaXIvdEJTbUdsT1dENVQ0VERKMmZrYXhmYVRGWng3N093Lm1hbmlmZXN0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjg5NzQxODcwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__"
+          },
+          {
+            "name": "Signature",
+            "value": "yaM0cLtJVnAwuAIz7VDI2AuwU3ykdLTuZbsRV6PhmzdztSmH~MJnfQzpgn4qjpzeSk28EtstvEcyrHvs9SJHtgvQMENgH954RgePN19JvAPO6dzGVNYKh9ZMhZQK68n5vmddtBBNjRnbxmY3HCDGJ0oOX6idp1YpQHmKGYiEG5yUyza0XuXjypj25YsRltbJK8oBnTYofnDbyiKAQcmcr7Sh81OhcPRidr5U8l9URx6j4tW~557q9WDT2Ux8nPa8rHXANvu6md-pKCoCrhJAanLYgcykuP~8PyyqF6rms7ANnl1Oc4y3wgNtVzSOdVP5wHlI~lYCkq9cb~YuXrpZJA__"
+          },
+          {
+            "name": "Key-Pair-Id",
+            "value": "APKAJP7WU44FM4EHJYFQ"
+          }
+        ],
+        "uri": "https://download2.epicgames.com/Builds/EOS/OverlayCloudDir/tBSmGlOWD5T4TDJ2fkaxfaTFZx77Ow.manifest"
+      },
+      {
+        "queryParams": [
+          {
+            "name": "Policy",
+            "value": "eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovQnVpbGRzL0VPUy9PdmVybGF5Q2xvdWREaXIvdEJTbUdsT1dENVQ0VERKMmZrYXhmYVRGWng3N093Lm1hbmlmZXN0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjg5NzQxODcwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__"
+          },
+          {
+            "name": "Signature",
+            "value": "yaM0cLtJVnAwuAIz7VDI2AuwU3ykdLTuZbsRV6PhmzdztSmH~MJnfQzpgn4qjpzeSk28EtstvEcyrHvs9SJHtgvQMENgH954RgePN19JvAPO6dzGVNYKh9ZMhZQK68n5vmddtBBNjRnbxmY3HCDGJ0oOX6idp1YpQHmKGYiEG5yUyza0XuXjypj25YsRltbJK8oBnTYofnDbyiKAQcmcr7Sh81OhcPRidr5U8l9URx6j4tW~557q9WDT2Ux8nPa8rHXANvu6md-pKCoCrhJAanLYgcykuP~8PyyqF6rms7ANnl1Oc4y3wgNtVzSOdVP5wHlI~lYCkq9cb~YuXrpZJA__"
+          },
+          {
+            "name": "Key-Pair-Id",
+            "value": "APKAJP7WU44FM4EHJYFQ"
+          }
+        ],
+        "uri": "https://download3.epicgames.com/Builds/EOS/OverlayCloudDir/tBSmGlOWD5T4TDJ2fkaxfaTFZx77Ow.manifest"
+      },
+      {
+        "queryParams": [
+          {
+            "name": "Policy",
+            "value": "eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovQnVpbGRzL0VPUy9PdmVybGF5Q2xvdWREaXIvdEJTbUdsT1dENVQ0VERKMmZrYXhmYVRGWng3N093Lm1hbmlmZXN0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjg5NzQxODcwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__"
+          },
+          {
+            "name": "Signature",
+            "value": "yaM0cLtJVnAwuAIz7VDI2AuwU3ykdLTuZbsRV6PhmzdztSmH~MJnfQzpgn4qjpzeSk28EtstvEcyrHvs9SJHtgvQMENgH954RgePN19JvAPO6dzGVNYKh9ZMhZQK68n5vmddtBBNjRnbxmY3HCDGJ0oOX6idp1YpQHmKGYiEG5yUyza0XuXjypj25YsRltbJK8oBnTYofnDbyiKAQcmcr7Sh81OhcPRidr5U8l9URx6j4tW~557q9WDT2Ux8nPa8rHXANvu6md-pKCoCrhJAanLYgcykuP~8PyyqF6rms7ANnl1Oc4y3wgNtVzSOdVP5wHlI~lYCkq9cb~YuXrpZJA__"
+          },
+          {
+            "name": "Key-Pair-Id",
+            "value": "APKAJP7WU44FM4EHJYFQ"
+          }
+        ],
+        "uri": "https://download4.epicgames.com/Builds/EOS/OverlayCloudDir/tBSmGlOWD5T4TDJ2fkaxfaTFZx77Ow.manifest"
+      },
+      {
+        "queryParams": [
+          {
+            "name": "ak_token",
+            "value": "exp=1689741870~hmac=b540e65b46681d0ca625a840fd139c3eab873637dce07f207eb31492de771152"
+          }
+        ],
+        "uri": "https://epicgames-download1.akamaized.net/Builds/EOS/OverlayCloudDir/tBSmGlOWD5T4TDJ2fkaxfaTFZx77Ow.manifest"
+      },
+      {
+        "queryParams": [
+          {
+            "name": "f_token",
+            "value": "1689741870_6b601e2653bd5c3b080b596940857393dcc58ef4"
+          }
+        ],
+        "uri": "https://fastly-download.epicgames.com/Builds/EOS/OverlayCloudDir/tBSmGlOWD5T4TDJ2fkaxfaTFZx77Ow.manifest"
+      }
+    ],
+    "useSignedUrl": false
+  },
+  "last_update": 1689741570.4168174
+}
